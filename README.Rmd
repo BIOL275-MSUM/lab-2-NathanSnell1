@@ -1,11 +1,11 @@
 ---
 title: "Lab 2: Introduction to RStudio"
-author: "___"
+author: Nathan Snell
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
 
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE ____ WITH YOUR OWN TEXT
+
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
@@ -13,9 +13,8 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
-
+We aim to learn more about Rstudio by following the instructions in this assignment.
+During the assignment we will: answer questions, copy and paste code, and run the code in calculator.R.
 ## Repository contents
 
 The repository contains the following scripts:
